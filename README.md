@@ -8,7 +8,6 @@
 - E-mail - cos65536@gmail.com
 
 ## Courses
-- 
 
 
 <!--
