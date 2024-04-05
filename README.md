@@ -12,7 +12,6 @@
 ## Stack
  <img src="https://img.shields.io/badge/SPRINGBOOT-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
  <img src="https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=Spring&logoColor=white">
- <img src="https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=Spring&logoColor=white">
  <img src="https://img.shields.io/badge/THYMELEAF-005F0F?style=for-the-badge&logo=Spring&logoColor=white">
 
 
