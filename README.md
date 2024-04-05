@@ -4,13 +4,13 @@
 안녕하세요.
 
 ## Career
-- 컴퓨터공학과 재학중
+- 영남대학교 컴퓨터공학과 재학중
 
 ## Links
 - E-mail - cos65536@gmail.com
 
-## Courses
-
+## Stack
+ <img src="https://img.shields.io/badge/SPRINGBOOT-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
 
 <!--
 **cos65536/cos65536** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
